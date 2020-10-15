@@ -1,0 +1,6 @@
+li {
+    background: purple;
+}
+li:nth-child(odd) {
+    background: royalblue;
+}
