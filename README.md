@@ -44,7 +44,7 @@ cd TopGear-CSS-L1
 
 ## Using TopGear-CSS-L1
 
-Use this for your reference, all code is placed under `Assignments` directory, once you have any `modern web browser` installed you can edit and run these locally.
+Use this for your reference, all code is placed under `Scenarios` directory, once you have any `modern web browser` installed you can edit and run these locally.
 
 ```bash
 cd Assignments/
